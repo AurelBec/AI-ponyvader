@@ -1,0 +1,9 @@
+/*
+!fonts/
+!hdr/
+!img/
+!src/
+!CMakeLists.txt
+!FindSFML.cmake
+!README.md
+!.gitignore
